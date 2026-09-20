@@ -1,7 +1,3 @@
-> Este documento reúne todo o texto explicativo, a metodologia e a discussão dos resultados que antes estavam intercalados como células markdown dentro do notebook `Lista3_IA_Titanic.ipynb`. O notebook agora contém **apenas código** (na mesma ordem original); leia este README em paralelo para acompanhar o raciocínio de cada etapa.
-
-**Dependência de dados:** o notebook espera o arquivo `titanic_completo.csv` no mesmo diretório.
-
 ---
 
 # Lista #3 — Inteligência Artificial
